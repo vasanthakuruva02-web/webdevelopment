@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Farewell Party Registration</title>
+
+<style>
+
+body{
+font-family: Arial, sans-serif;
+background: linear-gradient(120deg,#ff9a9e,#fad0c4,#a1c4fd);
+}
+
+.container{
+width: 420px;
+margin: 40px auto;
+background:white;
+padding:2rem;
+border-radius:10px;
+box-shadow:0 0 10px gray;
+}
+
+h2{
+text-align:center;
+font-size:1.8rem;
+}
+
+label{
+font-size:1em;
+display:block;
+margin-top:10px;
+}
+
+input{
+width:100%;
+padding:8px;
+font-size:14px;
+margin-top:5px;
+border-radius:5px;
+border:1px solid #ccc;
+}
+
+.interests{
+margin-top:10px;
+}
+
+button{
+width:100%;
+padding:10px;
+margin-top:15px;
+font-size:1rem;
+background:#ff6b81;
+color:white;
+border:none;
+border-radius:5px;
+cursor:pointer;
+}
+
+button:hover{
+background:#ff4757;
+}
+
+.features{
+margin-top:20px;
+font-size:14px;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1 style="color:red;text-align:center;">Farewell Party 2025</h1>
+
+<img src="farewell.jpg" width="100%" style="border-radius:10px;">
+
+<h2>Registration Form</h2>
+
+<form>
+
+<label>Name</label>
+<input type="text" placeholder="Enter your name">
+
+<label>Class</label>
+<input type="text" placeholder="Enter your class">
+
+<label>Branch</label>
+<input type="text" placeholder="Enter your branch">
+
+<label>Phone</label>
+<input type="tel" placeholder="Enter phone number">
+
+<label>Email</label>
+<input type="email" placeholder="Enter email">
+
+<div class="interests">
+<label>Interests</label>
+
+<input type="checkbox"> Dancing <br>
+<input type="checkbox"> Singing <br>
+<input type="checkbox"> Games <br>
+<input type="checkbox"> Photography <br>
+<input type="checkbox"> Anchoring
+
+</div>
+
+<button type="submit">Register Now</button>
+
+</form>
+
+<div class="features">
+
+<h3>Event Highlights</h3>
+
+<ul>
+<li>Fun Games</li>
+<li>Music & Dance</li>
+<li>Photo Booth</li>
+<li>Special Memories</li>
+</ul>
+
+</div>
+
+</div>
+
+</body>
+</html>

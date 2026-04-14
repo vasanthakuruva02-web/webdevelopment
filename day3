@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Grocery store</title>
+</head>
+<body>
+<li>
+    <ol>
+        <li><h3>VEGETABLES</h3></li>
+  <ul>
+
+     <li>brinjal</li>
+     <li>garlic</li>
+     <li>potato</li>
+
+  </ul>   
+  <br>
+        <li><h3>FRUITS</h3></li> 
+    <UL>
+        <li>banana</li>
+        <li>orange</li>
+        <li>watermelon</li>
+    </UL>
+</li>
+<h4>Table for vegetables</h4>
+<table border="2px" cellspacing="0px">
+    <tr>
+        <td>Name</td>
+        <td>Price</td>
+        <td>Quantity</td>
+    </tr>
+    <tr>
+        <td>brinjal</td>
+        <td>70rs</td>
+        <td>2kg(s)</td>
+    </tr>
+    <tr>
+        <td>garlic</td>
+        <td>170rs</td>
+        <td>1kg(s)</td>
+    </tr>
+    <tr>
+        <td>potato</td>
+        <td>120rs</td>
+        <td>3kg(s)</td>
+    </tr>
+</table>
+<h4>Table for fruits</h4>
+<table border="2px" cellspacing="0px">
+    <tr>
+        <td>Name</td>
+        <td>Price</td>
+        <td>Quantity</td>
+    </tr>
+    <tr>
+        <td>banana</td>
+        <td>100rs</td>
+        <td>12 fruit(s)</td>
+    </tr>
+    <tr>
+        <td>orange</td>
+        <td>200rs</td>
+        <td>4-6 fruit(s)</td>
+    </tr>
+    <tr>
+        <td>watermelon</td>
+        <td>130rs</td>
+        <td>1 fruit(s)</td>
+    </tr>
+</table> 
+<br>
+<a href="https://pothysmart.com/home_">Click to visit pothysmart</a>
+<br><br>
+<img src="https://assets.centralindex.com/W/48/9f7c156b906476ce23ae5be89f69727e.jpg" width="500",height="200">
+</body>
+</html>

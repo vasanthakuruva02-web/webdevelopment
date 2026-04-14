@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Savithri - Telugu Cinema Legend</title>
+
+<style>
+
+body{
+background: linear-gradient(
+90deg,
+#ff9a9e,
+#fad0c4,
+#fbc2eb,
+#a1c4fd,
+#c2ffd8
+);
+background-size: cover;
+font-family: Arial, sans-serif;
+}
+
+h1{
+    color: rgb(225, 27, 27);
+}
+
+p{
+    color: rgb(178, 63, 178);
+    font-size: 18px;
+}
+
+img{
+    width: 250px;
+    border-radius: 10px;
+}
+
+li{
+    font-size: 18px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1 style="color:rgb(69, 17, 17)">ABOUT SAVITHRI</h1>
+<img src="https://i.pinimg.com/736x/bf/ff/b8/bfffb81d7ad1aef43240ae0ef2788ce9.jpg" width="1",height="2>
+<img src="savithri.jpg" alt="Savithri Actress">
+
+<p>
+Savithri was one of the greatest actresses in Telugu and Tamil cinema.
+She was popularly known as "Mahanati" because of her powerful acting
+and emotional performances. She acted in more than 250 films and became
+one of the most respected actresses in Indian cinema history.
+</p>
+
+<h1>Early Life</h1>
+
+<ol>
+<li style="color:blue">Born: December 6, 1936</li>
+<li style="color:blue">Place: Chirravuru, Andhra Pradesh</li>
+<li style="color:blue">Parents: Nissankara Guravayya and Subhadramma</li>
+<li style="color:blue">She learned classical dance at a young age.</li>
+</ol>
+
+<h1>Film Career</h1>
+
+<p style="color:rgb(7, 6, 5)">
+Savithri entered the film industry at a young age.
+Her natural acting style made her very popular among audiences.
+She worked with many legendary actors in South Indian cinema
+and later also directed and produced films.
+</p>
+
+<h1>Famous Movies</h1>
+
+<ul>
+<li>Maya Bazaar</li>
+<li>Missamma</li>
+<li>Devadasu</li>
+<li>Gundamma Katha</li>
+<li>Chivaraku Migiledi</li>
+</ul>
+
+<h1>Awards and Achievements</h1>
+
+<p>
+Savithri received many awards and recognition for her acting.
+She was called "Mahanati" because of her extraordinary talent.
+Her performances are still admired by many actors today.
+</p>
+
+<h1>Legacy</h1>
+
+<p>
+Savithri is remembered as one of the greatest actresses
+in South Indian cinema. Her life story inspired the movie
+"Mahanati". Her acting continues to inspire many people
+in the film industry.
+</p>
+
+</body>
+</html>

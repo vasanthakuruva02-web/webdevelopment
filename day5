@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Farewell Party - Registration</title>
+
+<style>
+
+body{
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg,#c04e52,#ffffff,#183c75);
+}
+
+
+h1{
+    text-align: center;
+    font-size: 2rem;
+    color: #333;
+}
+
+label{
+    display: block;
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
+
+input{
+    width: 100%;
+    font-size: 16px;
+    border: 1px solid #ccc;
+}
+
+button{
+    <br>
+    width: 50%;
+    font-size: 1em;
+    background: #f03a55;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 1px;
+    cursor: pointer;
+}
+
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Farewell Party Registration</h1>
+
+<form>
+
+<div class="form-group">
+<label><h3>Name</h3></label>
+<input type="text" placeholder="Enter your name">
+</div>
+<div class="form-group">
+<label><h3>Registration No.</h3></label>
+<input type="text" placeholder="Enter your name">
+</div>
+<div class="form-group">
+<label><h3>Branch</h3></label>
+<input type="text" placeholder="Enter your branch">
+</div>
+
+<div class="form-group">
+ <label><h3>Year</h3></label>
+    <input type="radio">1st<br>
+    <input type="radio">2nd<br>
+    <input type="radio">3rd<br>
+    <input type="radio">4th<br>
+</div>
+<div class="form-group"><br>
+  <label><h3>Section</h3></label>
+    <input type="radio">a<br>
+    <input type="radio">b<br>
+    <input type="radio">c<br>
+    <input type="radio">d<br>
+</div>
+
+<div class="form-group">
+<label><h3>Phone</h3></label>
+<input type="tel" placeholder="Enter phone number">
+</div>
+
+<div class="form-group">
+<label><h3>Email</h3></label>
+<input type="email" placeholder="Enter email">
+</div>
+
+<div class="form-group">
+<label><h3>Interests</h3></label>
+
+<div class="checkbox-group">
+<input type="checkbox"> Hosting
+<input type="checkbox"> Speech <br>
+<input type="checkbox"> Flashmob <br>
+<input type="checkbox"> Singing <br>
+<input type="checkbox"> ramp walk <br>
+<input type="checkbox"> stand up comedy <br>
+</div>
+
+</div>
+<br>
+<button type="submit"><h3>Register Now</h3></button>
+
+</form>
+
+</div>
+<div class="features">
+
+<h3>Event Highlights</h3>
+
+<ul>
+<li>Fun Activities</li>
+<li>Music & Dance</li>
+<li>Ramp walk</li>
+<li>stand up comedy</li>
+</ul>
+
+</div>
+
+</body>
+</html>
