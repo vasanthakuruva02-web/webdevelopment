@@ -1,6 +1,16 @@
 body {
   margin: 0;
-  font-family: 'Poppins', sans-serif;
+  font-family: Arial, sans-serif;
+}
+
+/* Header */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 30px;body {
+  margin: 0;
+  font-family: Arial, sans-serif;
 }
 
 /* Header */
@@ -9,7 +19,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 15px 30px;
-  background: linear-gradient(to right, #1e3c72, #2a5298);
+  background-color: #0077b6;
   color: white;
 }
 
@@ -22,18 +32,20 @@ nav a {
 }
 
 nav a:hover {
-  color: yellow;
+  text-decoration: underline;
+}
+  background-color: #0077b6;
+  color: white;
 }
 
-/* Hero Section */
-.hero {
-  text-align: center;
-  padding: 100px 20px;
-  background: #f4f4f4;
+/* Navbar */
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
 }
 
-/* Sections */
-section {
-  padding: 50px 20px;
-  text-align: center;
+nav a:hover {
+  text-decoration: underline;
 }
