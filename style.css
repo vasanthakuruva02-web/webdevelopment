@@ -1,47 +1,33 @@
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: Arial;
 }
 
 /* Header */
 header {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  padding: 15px 30px;body {
-  margin: 0;
-  font-family: Arial, sans-serif;
+  padding: 15px;
+  background: #0077b6;
+  color: white;
 }
 
-/* Header */
-header {
+nav a {
+  color: white;
+  margin: 10px;
+  text-decoration: none;
+}
+
+/* Products */
+.products {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 15px 30px;
-  background-color: #0077b6;
-  color: white;
+  justify-content: center;
+  gap: 20px;
+  padding: 40px;
 }
 
-/* Navbar */
-nav a {
-  color: white;
-  margin: 0 15px;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-nav a:hover {
-  text-decoration: underline;
-}
-  background-color: #0077b6;
-  color: white;
-}
-
-/* Navbar */
-nav a {
-  color: white;
-  margin: 0 15px;
-  text-decoration: none;
-  font-weight: bold;
+.card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  text-align: center;
 }
